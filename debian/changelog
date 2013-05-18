@@ -1,0 +1,6 @@
+vx-dconf-profile (1.0-1) unstable; urgency=low
+
+  * En el fichero /etc/dconf/profile/user, se deja preparado el sistema para
+    configurar el sistema a través del perfil 'local'.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 18 May 2013 11:52:47 +0200

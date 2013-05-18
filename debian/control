@@ -1,0 +1,13 @@
+Source: vx-dconf-profile
+Section: gnome
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux/vx-dconf-profile
+
+Package: vx-dconf-profile
+Architecture: all
+Depends: ${misc:Depends}, dconf-tools, dconf-service
+Description: dconf configuration system.
+ It's prepared so that you can customize locally at the system level.
