@@ -1,3 +1,10 @@
+vx-dconf-profile (1.0-2) unstable; urgency=low
+
+  * En el proceso de instalación del paquete, se crean los directorios
+    necesarios para que el sistema funcione (closes #1).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sun, 8 Dec 2013 10:34:23 +0200
+
 vx-dconf-profile (1.0-1) unstable; urgency=low
 
   * En el fichero /etc/dconf/profile/user, se deja preparado el sistema para
