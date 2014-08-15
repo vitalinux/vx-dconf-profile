@@ -1,3 +1,10 @@
+vx-dconf-profile (1.1-1) unstable; urgency=low
+
+  * Los perfiles se configuran para dconf 0.20 (Ubuntu Trusty). También son
+    compatibles con dconf 0.12 (Ubuntu Precise) (closes #2).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Fri, 15 Aug 2014 14:04:15 +0200
+
 vx-dconf-profile (1.0-2) unstable; urgency=low
 
   * En el proceso de instalación del paquete, se crean los directorios
