@@ -1,3 +1,11 @@
+vx-dconf-profile (1.2-1) unstable; urgency=low
+
+  * Adecuación a Ubuntu 20.04.
+  * Cambian dependencias: de dconf-tools a dconf-cli y dconf-editor.
+  * Se añade la descripción del proyecto.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Wed, 29 Apr 2020 12:58:15 +0200
+
 vx-dconf-profile (1.1-1) unstable; urgency=low
 
   * Los perfiles se configuran para dconf 0.20 (Ubuntu Trusty). También son

@@ -21,7 +21,7 @@ set -e
 case "$1" in
     configure)
         mkdir -p /etc/dconf/db/local.d/locks || :
-        dconf update
+        dconf update || :
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
